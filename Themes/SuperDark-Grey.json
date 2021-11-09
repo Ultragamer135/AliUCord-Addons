@@ -3,7 +3,8 @@
         "author": "ultragamer#2924",
         "version": "1.0.0",
         "license": "GNU GPLv3",
-        "name": "Super Dark (Grey)"
+        "name": "Super Dark (Grey)",
+        "updater": "https:\/\/raw.githubusercontent.com\/UsernameNotAvalible\/AliUCord-Addons\/main\/Themes\/SuperDark-Grey.json"
     },
     "background": {},
     "fonts": {},
