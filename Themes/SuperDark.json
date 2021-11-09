@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "ultragamer#2924",
+        "version": "1.0.0",
+        "license": "GNU GPLv3",
+        "name": "Super Dark"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -14013910,
+        "accent": -11184811,
+        "active_channel": -11184811,
+        "background": -16777216
+    },
+    "colors": {
+        "primary_dark_300": -8355712,
+        "primary_dark_630": -14013910,
+        "primary_dark_200": -1644826,
+        "primary_dark_400": -8355712,
+        "primary_dark_660": -14013910,
+        "primary_dark_700": -14013910,
+        "primary_dark_800": -14013910,
+        "link": -10517081
+    },
+    "drawable_tints": {
+        "drawable_voice_indicator_speaking": -14636978,
+        "abc_btn_check_material": -14636978,
+        "abc_btn_check_material_anim": -11941259,
+        "abc_list_divider_material": -16777216
+    }
+}
